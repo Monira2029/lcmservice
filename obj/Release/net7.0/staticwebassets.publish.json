@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hGp2bQTXwha5pphC6ILkJ+tU998JLsToXOlE7oMrvJs=",
+  "Source": "LcmService",
+  "BasePath": "_content/LcmService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
