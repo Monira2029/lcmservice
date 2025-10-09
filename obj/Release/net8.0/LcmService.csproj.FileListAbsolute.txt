@@ -34,3 +34,12 @@ C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\web.config
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\LcmService.deps.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\LcmService.runtimeconfig.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\web.config
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\LcmService.deps.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\LcmService.runtimeconfig.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\out\web.config
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\out\LcmService.deps.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\out\LcmService.runtimeconfig.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\out\out\web.config
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\out\out\LcmService.deps.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\bin\Release\net8.0\out\out\out\out\out\out\out\LcmService.runtimeconfig.json

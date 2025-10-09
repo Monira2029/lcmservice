@@ -1,14 +1,11 @@
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-EXPOSE 80
-
+# Use official .NET 8 SDK to build and run
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 COPY . .
-RUN dotnet restore
-RUN dotnet publish -c Release -o /app/out
+RUN dotnet publish -c Release -o /out
 
-FROM base AS final
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
-COPY --from=build /app/out .
-ENTRYPOINT ["dotnet", "LcmService.dll"]
+COPY --from=build /out .
+ENV ASPNETCORE_URLS=http://+:$PORT
+ENTRYPOINT ["dotnet", "lcmservice.dll"]

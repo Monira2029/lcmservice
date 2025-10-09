@@ -1,4 +1,7 @@
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\LcmService.exe
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\out\out\web.config
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\out\web.config
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\web.config
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\web.config
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\web.config
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\web.config
@@ -11,6 +14,12 @@ C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\LcmSer
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\LcmService.runtimeconfig.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\LcmService.deps.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\LcmService.runtimeconfig.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\LcmService.deps.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\LcmService.runtimeconfig.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\out\LcmService.deps.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\out\LcmService.runtimeconfig.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\out\out\LcmService.deps.json
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\out\out\out\out\out\out\out\LcmService.runtimeconfig.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\LcmService.dll
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\LcmService.deps.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\LcmService\out\LcmService.runtimeconfig.json

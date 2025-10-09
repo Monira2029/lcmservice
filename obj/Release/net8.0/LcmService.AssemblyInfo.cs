@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LcmService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c2f9d0d226784c9ce49578f3f49f5715832f1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+525e27ea40ee69b5afc36974457f89df2ed6b63a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LcmService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LcmService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
